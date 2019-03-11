@@ -1,0 +1,13 @@
+*******
+******E
+******E
+P*****A
+******E
+******E
+*******
+E1,3,PLASMA,MACRO
+E2,4,LAS,MACRO
+E3,4,LAS,MACRO
+E4,3,BATTLE,NONE
+A,5,GRAV,PLASMA
+Chaos

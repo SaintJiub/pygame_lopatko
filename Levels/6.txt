@@ -1,0 +1,12 @@
+*******
+******E
+******E
+P******
+******E
+******E
+*******
+E1(3,LAS,MACRO)
+E2(4,BATTLE,MACRO)
+E3(4,LAS,MACRO)
+E4(3,PLASMA,PLASMA)
+F(ORC)

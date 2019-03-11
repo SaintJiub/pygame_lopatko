@@ -1,0 +1,11 @@
+*******
+*******
+*******
+P******
+******E
+******E
+******E
+E1(3,LAS,PLASMA)
+E2(2,BATTLE,NONE)
+E3(2,BATTLE,PLASMA)
+F(CHAOS)
